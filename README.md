@@ -1,3 +1,6 @@
+## TDD Workshop Exercise - Birthdays Project
+Makers Academy: 14/05/2019
+
 ### Quick Start
 
 Fork this repository to your github account and clone it to your machine. Then install the dependencies:
